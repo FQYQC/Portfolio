@@ -1,2 +1,2 @@
 # About Me
-I'm now a MS student.
+I'm now a Master's student.
