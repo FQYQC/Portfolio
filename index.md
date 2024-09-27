@@ -17,7 +17,7 @@ My research and career interests include but not limited to
 
 *Sep 2024 - Spring 2026 (Expected)* 
 
-- **Master of Science** at ECE Dept.
+- **Master of Science** at [ECE Dept.](https://ece.ucsd.edu/)
 - Major in **Machine Learning and Data Science**
 
 
@@ -25,7 +25,7 @@ My research and career interests include but not limited to
 
 *Sep 2020 - Jul 2024*
 
-- **Bachelor of Engineer** at Yuanpei College
+- **Bachelor of Engineer** at [Yuanpei College](https://yuanpei.pku.edu.cn/)
 - Major in **Artificial Intelligence (Computer Science)**
 - Member of the first [Tong Class](https://tongclass.ac.cn/).
 
@@ -33,7 +33,7 @@ My research and career interests include but not limited to
 
 ### Megvii Technology Limited
 
-*Jun 2023 - Dec 2023*
+#### *Jun 2023 - Dec 2023*
 
 - **Self-driving software development intern**
 - **Models and tools development for self-driving vehicles.**
@@ -43,7 +43,7 @@ My research and career interests include but not limited to
 
 ### Beijing Institute for General Artificial Intelligence (BIGAI)
 
-*Mar 2022 - Jun 2023*
+#### *Mar 2022 - Jun 2023*
 
 - **Research Intern**
 - **Individual Research in Cognitive Reasoning Lab,** under supervision of [Prof. Wei Wang](https://cognn.com/) and [Dr. Lifeng Fan](https://lifengfan.github.io/).
@@ -57,10 +57,10 @@ My research and career interests include but not limited to
 
 - **Yilue Qian**, Peiyu Yu, Ying Nian Wu, Yao Su, Wei Wang, Lifeng Fan
 - Published at IROS 2024 as Oral Pitch.
-- [[Paper]](https://fqyqc.github.io/Portfolio/assets/publications/LearningCCTSRVPs/paper.pdf)
+- [[Paper]](https://fqyqc.github.io/Portfolio/assets/publications/LearningCCTSRVP/paper.pdf)
 [[Web]](https://fqyqc.github.io/ConTranPlan)
 [[Video]](https://youtu.be/qWfZV8vI7Q0)
-[[Poster]](https://fqyqc.github.io/Portfolio/assets/publications/LearningCCTSRVPs/poster.pdf)
+[[Poster]](https://fqyqc.github.io/Portfolio/assets/publications/LearningCCTSRVP/poster.pdf)
 
 ### Evaluate and Mitigate Human-like Cognitive Biases in LLMs
 
