@@ -27,6 +27,7 @@ My research and career interests include but not limited to
 
 - **Bachelor of Engineer** at Yuanpei College
 - Major in **Artificial Intelligence (Computer Science)**
+- Member of the first [Tong Class](https://tongclass.ac.cn/).
 
 # Professional Experience
 
@@ -45,7 +46,7 @@ My research and career interests include but not limited to
 *Mar 2022 - Jun 2023*
 
 - **Research Intern**
-- **Individual Research in Cognitive Reasoning Lab,** under supervision of [Prof. Wei Wang]() and [Dr. Lifeng Fan](https://lifengfan.github.io/).
+- **Individual Research in Cognitive Reasoning Lab,** under supervision of [Prof. Wei Wang](https://cognn.com/) and [Dr. Lifeng Fan](https://lifengfan.github.io/).
 - Project on **concept disentanglement, causal transition, symbolic reasoning, and visual planning**.
 - Project on **3-D spatial reasoning**.
 - Member of **Artificial Social Intelligence** group.
