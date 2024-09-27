@@ -2,16 +2,16 @@
 
 **I'm now a Master's student at [Electrical and Computer Engineering](https://ece.ucsd.edu/), [UC San Diego](https://ucsd.edu/), majoring in Machine Learning and Data Science.**
 
-**I received my Bachelor's Degree from [Peking University](https://english.pku.edu.cn/) this year. At PKU, I'm a member of the first [Tong Class](https://tongclass.ac.cn/) (an honorary pilot class in AI) at [Yuanpei College](https://yuanpei.pku.edu.cn/), and also affiliated with [Institute for Artificial Intelligence](https://www.ai.pku.edu.cn/).**
+**I received my Bachelor's Degree from [Peking University](https://english.pku.edu.cn/) this year. At PKU, I'm a member of the first [Tong Class](https://tongclass.ac.cn/) (an honorary pilot class in AI) at [Yuanpei College](https://yuanpei.pku.edu.cn/), and was also affiliated with [Institute for Artificial Intelligence](https://www.ai.pku.edu.cn/).**
 
-**My research and career interests include but not limited to**
+**My research and career interests include but are not limited to**
 
 - **Research:** Machine Learning, (Machine and Human) Cognitive Reasoning, LLMs, Planning.
 - **Industry:** Self-driving, Recommendation, Cloud/Distributed Computation, Data-driven Learning, Software Development, especially related to AI and AI products.
 
 **Feel free to contact me through [[Github]](https://github.com/FQYQC)
 [[LinkedIn]](https://www.linkedin.com/in/yilue-qian/)
-[[Email]](mailto://qianyilue@outlook.com), I'm ready to share ideas and infos.**
+[[Email]](mailto://qianyilue@outlook.com), I'm happy to share ideas and infos.**
 
 
 # Education
