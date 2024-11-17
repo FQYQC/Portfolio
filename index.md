@@ -79,11 +79,11 @@
 - Developed a high-performance Linear Algebra Solver using C++ and Cuda, with advanced parallel techniques such as blocking, tiling, shared memory, and data shuffling within threads. Achieved 82% of the performance efficiency of NVIDIA cutlass.
 - Conducted comprehensive benchmarking and profiling with NVIDIA Nsight, providing detailed insights into memory usage and execution time.
 
-### Efﬁcient Compilation and Scheduling for CNNs on Compute-in-memory Units
+### Efficient Compilation and Scheduling for CNNs on Compute-in-memory Units
 
 #### *Feb 2024 - Mar 2024*
 
-- **Keyword: CNN, Compilation, Scheduling, Compute-in-memory**.
+- **Keyword: CNN, Compilation, Compute-in-memory**.
 - Designed a highly efficient compilation approach tailored for CNN inference on both single- and multi-unit compute-in-memory chips. The method includes network reconstruction, memory access management, and computational operation scheduling.
 - Conducted comprehensive experiments to verify the effectiveness of the proposed methods. The approach achieves 98% reduced memory access and 67% faster inference speed compared to classic compilation techniques.
 
@@ -91,7 +91,7 @@
 
 #### *Feb 2024 - Mar 2024*
 
-- **Keyword: Large Languege Models, Cognitive Bias, Benchmarking, Cognitive Hierarchy**.
+- **Keyword: Large Language Models, Cognitive Bias, Benchmarking, Cognitive Hierarchy**.
 - Established a comprehensive cognitive bias evaluation system, CoBAL, which includes datasets and evaluation metrics to assess 9 kinds of cognitive biases in large language models. Collected and reported human performance on the CoBAL benchmark.
 - Evaluated over 7 cutting-edge language models (GPT-4, Gemini-1.5, Claude-3, etc.) on the CoBAL benchmark, and conducted a thorough analysis and comparison of exist cognitive bias moderation methods across these models.
 - Proposed a novel and effective cognitive bias mitigating method, HiTHer, introducing the cognitive hierarchy theory into this field for the first time. It demonstrates 40-85% higher performance on CoBAL benchmark compared to previous methods.
